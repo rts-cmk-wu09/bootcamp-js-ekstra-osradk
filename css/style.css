@@ -19,11 +19,11 @@ label {
 	margin-bottom: 4px;
 }
 
-	label em {
-		font-weight: normal;
-		color: #aaa;
-		padding-left: 20px;
-	}
+label em {
+	font-weight: normal;
+	color: #aaa;
+	padding-left: 20px;
+}
 
 h2 {
 	margin-bottom: 20px;
@@ -45,7 +45,8 @@ h3 {
 	border-radius: 5px;
 }
 
-#btn-person-forrige, #btn-person-naeste {
+#btn-person-forrige,
+#btn-person-naeste {
 	width: 20px;
 	height: 20px;
 }
@@ -54,23 +55,23 @@ h3 {
 	margin-top: 20px;
 }
 
-	#alle-personer .row {
-		margin-bottom: 5px;
-	}
+#alle-personer .row {
+	margin-bottom: 5px;
+}
 
-		#alle-personer .farve {
-			display: inline-block;
-			width: 20px;
-			height: 20px;
-			border: 1px solid #aaa;
-			border-radius: 3px;
-			vertical-align: middle;
-			margin-right: 10px;
-		}
+#alle-personer .farve {
+	display: inline-block;
+	width: 20px;
+	height: 20px;
+	border: 1px solid #aaa;
+	border-radius: 3px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
 
-	#alle-personer .aktuelle-person {
-		font-weight: bold !important;
-	}
+#alle-personer .aktuelle-person {
+	font-weight: bold !important;
+}
 
 .opgave-besked {
 	color: red;
